@@ -5,7 +5,7 @@ B前面的数字代表数字对但是位置不对的个数。
 
 例如：答案是1 2 3 4， 那么对于不同的输入，有如下的输出
 Input　　    Output             Instruction
-1 5 6 7      1A0B                 1 correct
+1 5 6 7      1A0B                 1 correct       1 1 
 2 4 7 8      0A2B                 2 and 4 wrong position 
 0 3 2 4      1A2B                 4 correct，2 and 3 wrong position
 5 6 7 8      0A0B                 all wrong
