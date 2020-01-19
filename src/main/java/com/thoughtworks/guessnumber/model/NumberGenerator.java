@@ -1,4 +1,4 @@
-package com.thoughtworks.guessnumber;
+package com.thoughtworks.guessnumber.model;
 
 
 public class NumberGenerator {

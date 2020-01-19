@@ -1,7 +1,5 @@
 package com.thoughtworks.guessnumber.model;
 
-import com.thoughtworks.guessnumber.NumberGenerator;
-
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;

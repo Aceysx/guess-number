@@ -23,7 +23,10 @@ public class GuessNumberGame {
         }
         if (GuessNumberValidator.verify(input)) {
             List<Integer> inputs = format(input);
-            result.add(buildGuessResult(input, guessNumber.guess(inputs)));
+            result.add(buildGuessResult(
+                input,
+                guessNumber.guess(inputs))
+            );
             return result;
         }
 
