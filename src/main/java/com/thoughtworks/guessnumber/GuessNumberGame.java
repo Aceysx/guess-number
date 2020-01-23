@@ -1,7 +1,6 @@
 package com.thoughtworks.guessnumber;
 
 import com.thoughtworks.guessnumber.model.GuessNumber;
-import com.thoughtworks.guessnumber.model.GuessNumberValidator;
 import com.thoughtworks.guessnumber.model.GuessResult;
 
 import java.util.*;

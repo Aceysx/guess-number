@@ -1,5 +1,6 @@
 package com.thoughtworks.guessnumber.model;
 
+import com.thoughtworks.guessnumber.GuessNumberValidator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;

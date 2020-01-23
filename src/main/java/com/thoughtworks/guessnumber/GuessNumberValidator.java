@@ -1,4 +1,4 @@
-package com.thoughtworks.guessnumber.model;
+package com.thoughtworks.guessnumber;
 
 import java.util.Arrays;
 
